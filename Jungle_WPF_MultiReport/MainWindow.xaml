@@ -10,7 +10,8 @@
         MinHeight="700" Topmost="True" 
         WindowStyle="None" ResizeMode="CanResizeWithGrip"
         WindowStartupLocation="CenterScreen" 
-        BorderThickness="2"        
+        BorderThickness="2" 
+        
     xmlns:theme="clr-namespace:Microsoft.Windows.Themes;assembly=PresentationFramework.Aero2" 
         Icon="/Image/icon.png">
     <Window.Resources>
